@@ -13,7 +13,7 @@
         "bootstrap-sass": "^3.4.1",
         "cross-env": "^5.2.0",
         "jquery": "^3.4.1",
-        "laravel-mix": "^4.0.16",
+        "laravel-mix": "^6.0.49",
         "sass": "^1.21.0",
         "sass-loader": "7.*"
     },
